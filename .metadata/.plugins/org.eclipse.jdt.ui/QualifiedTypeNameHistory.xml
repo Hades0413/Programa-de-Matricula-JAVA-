@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.swing.SwingConstants"/>
+    <fullyQualifiedTypeName name="java.awt.BorderLayout"/>
+    <fullyQualifiedTypeName name="java.awt.event.ComponentAdapter"/>
+    <fullyQualifiedTypeName name="java.awt.event.ComponentEvent"/>
+    <fullyQualifiedTypeName name="java.awt.Image"/>
+</qualifiedTypeNameHistroy>
